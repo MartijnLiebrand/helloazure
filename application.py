@@ -1,5 +1,4 @@
 from flask import Flask
-from Bio.Seq import Seq
 
 app = Flask(__name__)
 
